@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f7fb;
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  padding: 14px;
+  margin: 8px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: none;
+  background: #0b57d0;
+  color: white;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+.hidden {
+  display: none;
+}
+
+#answers button {
+  display: block;
+  width: 100%;
+  margin: 6px 0;
+}
